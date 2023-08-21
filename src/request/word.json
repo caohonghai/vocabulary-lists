@@ -1,6 +1,366 @@
 {
-    "total": 110,
+    "total": 146,
     "itemList": [
+        {
+            "itemId": "b49b6d734bd357712998c89c9d72925e",
+            "word": "ergonomics",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.工效学；人类工程学",
+            "usphone": "ˌɜːrɡəˈnɑːmɪks",
+            "ukphone": "ˌɜːɡəˈnɒmɪks",
+            "createTime": "2023-08-21T03:25:19.910+0000"
+        },
+        {
+            "itemId": "68900b524ea137af411fda6b80ea6459",
+            "word": "associate",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "v.联想，联系；（使）关联；与（不被认同的人）交往；将……和……联系起来；表示同意\nn.（生意或工作上的）伙伴；准会员；联想；准零售工\nadj.（与某组织或企业）联合的；副的",
+            "usphone": "əˈsoʊsieɪt,əˈsoʊʃieɪt",
+            "ukphone": "əˈsəʊsieɪt; əˈsəʊʃieɪt",
+            "createTime": "2023-08-21T02:29:16.963+0000"
+        },
+        {
+            "itemId": "6fe4ef48d9a90f504718f2724f839c0c",
+            "word": "explain",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "v.说明；解释",
+            "usphone": "ɪkˈspleɪn",
+            "ukphone": "ɪkˈspleɪn",
+            "createTime": "2023-08-21T02:27:00.231+0000"
+        },
+        {
+            "itemId": "20982b8a063ef14b9fa1630cbc7b0006",
+            "word": "pain",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.疼痛；努力\nvt.使…痛苦；使…烦恼\nvi.感到疼痛；引起疼痛\nn.(Pain)人名；(意)帕因；(俄)派因；(法)潘；(英)佩因",
+            "usphone": "peɪn",
+            "ukphone": "peɪn",
+            "createTime": "2023-08-21T02:26:55.416+0000"
+        },
+        {
+            "itemId": "699430ebb376141e5a112b9b2c236cb0",
+            "word": "plain",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.平的；简单的；朴素的；清晰的\nn.平原；无格式；朴实无华的东西\nadv.清楚地；平易地\nn.(Plain)人名；(英)普莱恩；(法)普兰",
+            "usphone": "pleɪn",
+            "ukphone": "pleɪn",
+            "createTime": "2023-08-21T02:26:09.121+0000"
+        },
+        {
+            "itemId": "36801e63c8fff7c4bf044bf29c6e30cc",
+            "word": "detached",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "v.拆卸；挣脱；派遣；可方便地取下；执行单独任务（detach 的过去式及过去分词）\nadj.单独的；冷漠的；超然而客观的；在基层工作的",
+            "usphone": "dɪˈtætʃt",
+            "ukphone": "dɪˈtætʃt",
+            "createTime": "2023-08-21T02:15:03.434+0000"
+        },
+        {
+            "itemId": "cab266ec9724ecb34425c7b3d97e85fa",
+            "word": "trivially",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adv.琐细地；平凡地；无能地",
+            "usphone": null,
+            "ukphone": "ˈtrɪviəli",
+            "createTime": "2023-08-21T02:12:06.264+0000"
+        },
+        {
+            "itemId": "9702ea474945e660e16408084189d00b",
+            "word": "elegant",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.高雅的，优雅的；讲究的；简炼的；简洁的",
+            "usphone": "ˈelɪɡənt",
+            "ukphone": "ˈelɪɡənt",
+            "createTime": "2023-08-21T01:54:32.335+0000"
+        },
+        {
+            "itemId": "d4f774de76c1146e3a8dfa4683e27c28",
+            "word": "stylish",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.时髦的；现代风格的；潇洒的",
+            "usphone": "ˈstaɪlɪʃ",
+            "ukphone": "ˈstaɪlɪʃ",
+            "createTime": "2023-08-21T01:49:04.967+0000"
+        },
+        {
+            "itemId": "b2f0e0587cd897a7585f8fb2a1c1a929",
+            "word": "vulgar",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.粗俗的；通俗的；本土的\nn.平民，百姓",
+            "usphone": "ˈvʌlɡər",
+            "ukphone": "ˈvʌlɡə(r)",
+            "createTime": "2023-08-21T01:48:19.533+0000"
+        },
+        {
+            "itemId": "a0868161ed7e7341df73e7b87824f196",
+            "word": "funky",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.时髦的；畏缩的；恶臭的",
+            "usphone": "ˈfʌŋki",
+            "ukphone": "ˈfʌŋki",
+            "createTime": "2023-08-21T01:46:42.628+0000"
+        },
+        {
+            "itemId": "b5707d835905a5a76704e56fdde96714",
+            "word": "stumble upon",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "偶然发现",
+            "usphone": null,
+            "ukphone": "",
+            "createTime": "2023-08-21T01:43:51.853+0000"
+        },
+        {
+            "itemId": "572db5b886b7d1279da1f9c2eff09c80",
+            "word": "stumble",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "vi.踌躇，蹒跚；失足；犯错\nvt.使…困惑；使…绊倒\nn.绊倒；蹒跚而行",
+            "usphone": "ˈstʌmbl",
+            "ukphone": "ˈstʌmbl",
+            "createTime": "2023-08-21T01:43:47.430+0000"
+        },
+        {
+            "itemId": "c2ff0b86e1c5342f06fe45d5d2ee2f42",
+            "word": "be riddled with",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "饱受（辛苦）\n布满（不好的事物）",
+            "usphone": null,
+            "ukphone": null,
+            "createTime": "2023-08-21T01:40:45.247+0000"
+        },
+        {
+            "itemId": "c2cb7f353db5da501b6357d11454f6fd",
+            "word": "gotchas",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n．陷阱，突然出现的问题：在计划、设计或实现过程中可能遇到的意外问题或困难。\n· We need to be aware of potential gotchas when implementing this new software.\n在实施这个新软件时，我们需要注意可能遇到的陷阱。",
+            "usphone": null,
+            "ukphone": null,
+            "createTime": "2023-08-21T01:39:11.695+0000"
+        },
+        {
+            "itemId": "5ad47a8d539b0cf42a83d8fac4319426",
+            "word": "this alone",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "只此",
+            "usphone": null,
+            "ukphone": null,
+            "createTime": "2023-08-21T01:38:09.098+0000"
+        },
+        {
+            "itemId": "38d235756d6538437e48bc59390562df",
+            "word": "characteristics",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.特性，特征；特色（characteristic的复数）；特质",
+            "usphone": ",kærəktə'rɪstɪks",
+            "ukphone": ",kærəktə'rɪstɪks",
+            "createTime": "2023-08-21T01:30:45.766+0000"
+        },
+        {
+            "itemId": "b670901c8b5b80440abe77bcae10d489",
+            "word": "purpose",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.目的；用途；意志\nvt.决心；企图；打算",
+            "usphone": "ˈpɜːrpəs",
+            "ukphone": "ˈpɜːpəs",
+            "createTime": "2023-08-21T01:28:12.297+0000"
+        },
+        {
+            "itemId": "2966a497f96e36ea7a40d787a5a8642b",
+            "word": "assuming",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "conj.假设\nadj.傲慢的；不逊的；僭越的\nvi.假定；设想；承担；采取（assume的现在分词）\nvt.僭取；篡夺；夺取；擅用；侵占（assume的现在分词）",
+            "usphone": "əˈsuːmɪŋ",
+            "ukphone": "əˈsjuːmɪŋ",
+            "createTime": "2023-08-21T01:27:46.101+0000"
+        },
+        {
+            "itemId": "ca8b6601c4e97151f79c31ff32b61f03",
+            "word": "benchmark",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.基准；标准检查程序\nvt.用基准问题测试（计算机系统等）",
+            "usphone": "ˈbentʃmɑːrk",
+            "ukphone": "ˈbentʃmɑːk",
+            "createTime": "2023-08-21T01:02:54.951+0000"
+        },
+        {
+            "itemId": "f03cb674421171a93e22a597ecf1a934",
+            "word": "notorious",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.声名狼藉的，臭名昭著的",
+            "usphone": "noʊˈtɔːriəs",
+            "ukphone": "nəʊˈtɔːriəs",
+            "createTime": "2023-08-21T01:00:09.662+0000"
+        },
+        {
+            "itemId": "bfa6e8c4b0e17e0fb576641fa6e2df18",
+            "word": "literally",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adv.照字面地；逐字地；不夸张地；正确地；简直",
+            "usphone": "ˈlɪtərəli",
+            "ukphone": "ˈlɪtərəli",
+            "createTime": "2023-08-21T00:56:53.836+0000"
+        },
+        {
+            "itemId": "b252d1cadda25a61ab1ffdb9251e633b",
+            "word": "meant",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "v.意味；打算（mean的过去式和过去分词）；表示…的意思",
+            "usphone": "ment",
+            "ukphone": "ment",
+            "createTime": "2023-08-18T07:28:52.551+0000"
+        },
+        {
+            "itemId": "62f51e2653fc9638ed5d744627b85bea",
+            "word": "facilitate",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "vt.促进；帮助；使容易",
+            "usphone": "fəˈsɪlɪteɪt",
+            "ukphone": "fəˈsɪlɪteɪt",
+            "createTime": "2023-08-18T07:17:56.654+0000"
+        },
+        {
+            "itemId": "996aba49987a6f93de91f4584c3767ac",
+            "word": "initiate",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "vt.开始，创始；发起；使初步了解\nn.开始；新加入者，接受初步知识者\nadj.新加入的；接受初步知识的",
+            "usphone": "ɪˈnɪʃieɪt",
+            "ukphone": "ɪˈnɪʃieɪt",
+            "createTime": "2023-08-17T08:42:22.526+0000"
+        },
+        {
+            "itemId": "82232d18856db621d8ba501f56f0c1ba",
+            "word": "concise",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.简明的，简洁的",
+            "usphone": "kənˈsaɪs",
+            "ukphone": "kənˈsaɪs",
+            "createTime": "2023-08-17T08:26:11.396+0000"
+        },
+        {
+            "itemId": "69069dbb8ccb9ad89ebbb7b75cc40cf7",
+            "word": "denotes",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "为...的符号，表示，指示（denote的第三人称单数）",
+            "usphone": null,
+            "ukphone": "",
+            "createTime": "2023-08-17T08:20:45.905+0000"
+        },
+        {
+            "itemId": "b8b4c7e127ca1025047c772648d47bb8",
+            "word": "resumes",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.简历；个人履历（resume的复数）\nv.恢复（resume的第三人称单数形式）；重新获得",
+            "usphone": null,
+            "ukphone": "",
+            "createTime": "2023-08-17T08:19:29.940+0000"
+        },
+        {
+            "itemId": "93708428f8beb52fcb9b21798dab957b",
+            "word": "appeal",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.呼吁，恳求；上诉，申诉；吸引力，感染力，魅力；启发，打动\nv.呼吁，恳求；上诉，申诉，诉请裁决；对……有吸引力，有感染力；启发，劝说，打动",
+            "usphone": "əˈpiːl",
+            "ukphone": "əˈpiːl",
+            "createTime": "2023-08-17T08:03:32.359+0000"
+        },
+        {
+            "itemId": "28b31a92990e2260bdefde0a54daea82",
+            "word": "versus",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "prep.对，对抗；与……相对，与……相比",
+            "usphone": "ˈvɜːrsəs",
+            "ukphone": "ˈvɜːsəs",
+            "createTime": "2023-08-17T07:58:44.511+0000"
+        },
+        {
+            "itemId": "083fde0b75d65f33d7c3ab495d716386",
+            "word": "pseudo",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.伪君子；假冒的人\nadj.冒充的，假的",
+            "usphone": "ˈsuːdoʊ",
+            "ukphone": "ˈsuːdəʊ; ˈsjuːdəʊ",
+            "createTime": "2023-08-17T07:58:01.267+0000"
+        },
+        {
+            "itemId": "b7c4388b77cc957b93079b86304c8a5c",
+            "word": "dimension",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.方面;[数] 维；尺寸；次元；容积\nadj.规格的\nvt.标出尺寸",
+            "usphone": "daɪˈmenʃn,dɪˈmenʃn",
+            "ukphone": "daɪˈmenʃn; dɪˈmenʃn",
+            "createTime": "2023-08-17T07:56:04.338+0000"
+        },
+        {
+            "itemId": "6356182084aa7d7b9d6652730a97659a",
+            "word": "eliminates",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "消除\n排除",
+            "usphone": "ɪˈlɪmɪneɪts",
+            "ukphone": null,
+            "createTime": "2023-08-17T07:55:30.630+0000"
+        },
+        {
+            "itemId": "45374ecc3066c9796437f021af334c08",
+            "word": "shorthand",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "n.速记；速记法\nadj.速记法的",
+            "usphone": "ˈʃɔːrthænd",
+            "ukphone": "ˈʃɔːthænd",
+            "createTime": "2023-08-17T07:53:39.532+0000"
+        },
+        {
+            "itemId": "0bc2cc39a4fcc5c0b72ce8f491106859",
+            "word": "perpendicular",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "adj.垂直的，正交的；直立的；陡峭的\nn.垂线；垂直的位置",
+            "usphone": "ˌpɜːrpənˈdɪkjələr",
+            "ukphone": "ˌpɜːpənˈdɪkjələ(r)",
+            "createTime": "2023-08-17T07:46:03.909+0000"
+        },
+        {
+            "itemId": "e0ed1d4561b45a39f3852e3f9c5b41b5",
+            "word": "i.e.",
+            "lanFrom": "en",
+            "lanTo": "zh-CHS",
+            "trans": "abbr.即，也就是 (id est)",
+            "usphone": null,
+            "ukphone": null,
+            "createTime": "2023-08-17T07:45:51.326+0000"
+        },
         {
             "itemId": "4938809653b48e8c076cacea10e39dea",
             "word": "noninteracting",
